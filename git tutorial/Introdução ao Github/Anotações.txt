@@ -1,0 +1,5 @@
+Link para download do Git: https://git-scm.com/
+
+O Git é o sistema de controle de versão mais utilizado, que permite o rastreamento e gerenciamento do código-fonte ao longo do tempo. Ele foi projetado para colaboração e construído para ser flexível, seguro e eficiente.
+
+
