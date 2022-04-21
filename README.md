@@ -6,7 +6,8 @@ Olá, nesse projeto você aprenderá alguns comandos do Git
 
 
 
-Links úteis
+Links úteis:
+
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
