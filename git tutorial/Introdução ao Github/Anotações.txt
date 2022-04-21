@@ -1,5 +1,34 @@
 Link para download do Git: https://git-scm.com/
 
-O Git é o sistema de controle de versão mais utilizado, que permite o rastreamento e gerenciamento do código-fonte ao longo do tempo. Ele foi projetado para colaboração e construído para ser flexível, seguro e eficiente.
+O Git é o sistema de controle de versão mais utilizado, que permite o rastreamento 
+e gerenciamento do código-fonte ao longo do tempo. Ele foi projetado para colaboração e 
+construído para ser flexível, seguro e eficiente.
+
+>>Comandos Básicos:
+Windows         Linux
+  cd              cd
+  dir             ls
+  mkdir           mkdir
+  del             rm -rf
+  
+>>Instalando git no terminal - Linux
+   
+  sudo add-apt-repository ppa-git-core/pra-y
+  
+  sudo apt update
+  
+  sudo apt install git
+  
+  git --version
+  
+>>>git init
+>>>git status
+>>>git add *
+>>>git commit -m ""
+>>>git remote add origin <repositorio>
+>>>git push origin master
+  
+  
+  
 
 
